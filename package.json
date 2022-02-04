@@ -1,0 +1,20 @@
+{
+  "name": "whysogreen",
+  "version": "1.0.0",
+  "description": "Web site of Whysogreen company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "sass --watch --poll scss:css"
+  },
+  "keywords": [],
+  "author": "gdrincon",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.49.4"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.2",
+    "bootstrap": "^5.1.3"  
+  }
+}

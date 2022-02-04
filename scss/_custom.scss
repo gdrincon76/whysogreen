@@ -1,0 +1,22 @@
+$custom-primary: #026634;
+$custom-secundary: #711067;
+$custom-dark-gray: #2F2E41;
+$custom-light-gray: #707070;
+
+
+$primary: $custom-primary;
+$secondary: $custom-secundary;
+
+$nav-link-color: $primary !important;
+$nav-link-hover-color: $secondary !important;
+
+$navbar-light-toggler-icon-bg: url(../images/dot_al_menu.png);
+$navbar-light-toggler-border-color: $primary;
+
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
