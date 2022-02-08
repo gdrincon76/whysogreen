@@ -15,14 +15,17 @@
 }
 
 .items:hover{
+    transform: scale(1.1, 1.1);
     .simbol {
         color: $primary;
+        font-size: smaller;
     }
 }
 
 .logo {
-    width: 40px;
+    width: 30px;
     height: auto;
+
 }
 
 .navbar-toggler {
