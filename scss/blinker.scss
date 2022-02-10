@@ -1,0 +1,16 @@
+@use 'custom' as *;
+
+#blinker {
+    color: $primary;
+    animation: blinker 2s linear infinite;
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
+
+.margin {
+    margin-top: -50px;
+}

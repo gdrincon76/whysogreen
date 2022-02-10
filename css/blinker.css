@@ -11118,53 +11118,6 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-.simbol {
-  font-size: larger;
-  font-weight: bold;
-  color: #711067;
-}
-
-.items {
-  font-size: larger;
-  font-weight: bold;
-}
-
-.items:hover {
-  transform: scale(1.1, 1.1);
-}
-.items:hover .simbol {
-  color: #026634;
-  font-size: smaller;
-}
-
-.logo {
-  width: 30px;
-  height: auto;
-}
-
-.navbar-toggler {
-  padding: 0.25rem 0.75rem;
-  font-size: 1.25rem;
-  line-height: 1;
-  background-color: transparent;
-  border: 1px solid transparent;
-  border-radius: 0.25rem;
-  transition: box-shadow 0.15s ease-in-out;
-}
-@media (prefers-reduced-motion: reduce) {
-  .navbar-toggler {
-    transition: none;
-  }
-}
-.navbar-toggler:hover {
-  text-decoration: none;
-}
-.navbar-toggler:focus {
-  text-decoration: none;
-  outline: 0;
-  box-shadow: 0 0 1px 2px #026634;
-}
-
 #blinker {
   color: #026634;
   animation: blinker 2s linear infinite;
@@ -11179,4 +11132,4 @@ textarea.form-control-lg {
   margin-top: -50px;
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=blinker.css.map */
