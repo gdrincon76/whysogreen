@@ -3,5 +3,5 @@
 
 This is a Software development Company.
 This site is currently under construction.
-visit <a href="http://www.whysogreen.org">WhySoGreen</a>
+visit <a href="http://www.whysogreen.org" target="_blank">WhySoGreen</a>
 
