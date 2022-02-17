@@ -1,4 +1,4 @@
-# whysogreen
+# WhySoGreen
 ### Web app proyect for the WhySoGreen Corporation
 
 This is a Software development Company.
